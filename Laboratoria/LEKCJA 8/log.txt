@@ -1,0 +1,6 @@
+INFO:Uruchomiono serwer
+DEBUG:Nawiazano Polaczenie Z Baza Danych
+WARNING:Niskie Miejsce Na Dysku
+ERROR:Nie Udalo Sie Przetworzyc Zadania #123
+INFO:Zakonczono Zadanie
+ERROR:Blad Autoryzacji Uzytkownika 'admin'
